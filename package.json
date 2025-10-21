@@ -2,13 +2,8 @@
   "name": "pharma-api",
   "version": "1.0.0",
   "type": "module",
-  "main": "api/saveProductPage.js",
   "private": true,
-  "scripts": {
-    "start": "vercel dev"
-  },
   "engines": {
     "node": ">=18"
-  },
-  "dependencies": {}
+  }
 }
