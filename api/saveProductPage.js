@@ -25,7 +25,7 @@ export default async function handler(req, res) {
         
         // --- ЗАМЕНИ ЭТИ ДАННЫЕ НА СВОИ ---
         const repoOwner = "yotsersaw";          // Твой ник на GitHub
-        const repoName = "medilux-aura";        // Название репозитория с ФРОНТЕНДОМ
+        const repoName = "pharma-quest-gen";        // Название репозитория с ФРОНТЕНДОМ
         // ------------------------------------
 
         const githubToken = process.env.GITHUB_TOKEN;
